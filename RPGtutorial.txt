@@ -1,0 +1,17 @@
+Welcome to the tutorial! Press 'SPACE' to continue...
+
+You did it! Now, this is the battle tutorial...
+
+As like any other battles in games, you need to pick an option
+
+between Attack, Kraft, Defend, and Item Bag...
+
+You probably know what the other does...
+
+But what is a Kraft exactly?
+
+It is a skill based on the class you chose!
+
+It uses a special energy, so use it wisely!
+
+Now onto the battle!
