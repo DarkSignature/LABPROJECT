@@ -513,7 +513,7 @@ void rpgBattleSim(){
 	return;
 }
 
-
+float version = 1.0;
 int fruitx = 0, fruity = 0;
 int rows = 20, column = 40;
 int gameover = 0;
@@ -877,8 +877,8 @@ int main(){
 	// Constantly on the menu
 	while(1){
 		system("cls");
-		char gameTitle[] = "Welcome to WORM!";
-		printf("%74s\n\n", gameTitle);
+		char gameTitle[] = "Welcome to WORM v";
+		printf("%73s%.1f\n\n", gameTitle, version);
 		printf("%56c", 201);
 		for(int a = 0; a < 20; a++){
 			printf("%c", 205);
